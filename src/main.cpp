@@ -6,7 +6,10 @@ int main()
     cout << "Hello world!\n";
 
     cout << sizeof(float) << "\n";
-    cout << sizeof(char) << endl;
+    cout << sizeof(char) << "\n";
     cout << sizeof(double) << endl;
+    int x;
+    cin >> x;
+    cout << x << "\n";
     return 0;
 }
