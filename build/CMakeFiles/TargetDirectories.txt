@@ -1,0 +1,3 @@
+/home/kazu/git/C++/build/CMakeFiles/C++_train.dir
+/home/kazu/git/C++/build/CMakeFiles/edit_cache.dir
+/home/kazu/git/C++/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kazu/git/C++/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/C++_train.dir/src/main.cpp.o -c /home/kazu/git/C++/src/main.cpp",
+  "file": "/home/kazu/git/C++/src/main.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/C++_train.dir/src/main.cpp.o -o C++_train 
