@@ -1,21 +1,19 @@
 #include <iostream>
 using namespace std;
 
-int func(int num){
+template <class T>
+T func(T num){
     if (num > 100)
     {
         return num;
     }
-    int a = num + 5;
+    T a = num + 5;
     
     return func(a);
 }
-
 int main()
 {
-    int num;
-    cin >> num;
-    int a = func(num);
-    cout << a << "\n";
+    double A = func(5.5);
+    cout << A << "\n";
     return 0;
 }
