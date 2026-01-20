@@ -40,6 +40,11 @@ int main()
         cout << test[i] << "\n";
     }
     
-    
+    int *pA;
+    pA = new int;
+    cout << pA <<"\n";
+    *pA = 50;
+    cout << *pA <<"\n";
+    delete pA;
     return 0;
 }
